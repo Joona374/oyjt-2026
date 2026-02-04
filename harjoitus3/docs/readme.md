@@ -27,7 +27,7 @@ This project implements a simple Node.js Express API that provides endpoints for
 
 Start the development server:
 ```bash
-npm start
+npm run dev
 ```
 
 The server will run on `http://localhost:3000`.
