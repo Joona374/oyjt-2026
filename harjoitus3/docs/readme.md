@@ -71,6 +71,9 @@ curl "http://localhost:3000/rgb2hex?rgb=rgb(0,154,255)"
 ```
 **Response:** `#009AFF`
 
+#### Examples using curl
+![Examples using curl](curl.png)
+
 ## Testing
 
 Run the integration tests:
@@ -90,24 +93,6 @@ Running `npm test` executes the test suite and displays the results in the termi
 
 ### Example Output
 
-```
-String convertion API
-  ✔ responds to the root route
-  ✔ returns status 200 for /hex2rgb
-  ✔ returns status 200 for /rgb2hex
-  ✔ returns the correctly converted RGB value
-  ✔ returns the correctly converted RGB value
-
-utils.js
-  hex2rgb()
-    ✔ should correctly convert a hex string to rgb string
-    ✔ should throw an error if inputs is invalid
-  rgb2hex()
-    ✔ should correctly convert a hex string to rgb string
-    ✔ should throw an error if inputs is invalid
-
-9 passing (53ms)
-```
 
 ![Test Results](tests.png)
 
