@@ -27,3 +27,21 @@ node src/main.js
 ```
 npm test
 ```
+
+## How to run harjoitus3 (from root)
+*(CD to correct dir)*
+```
+cd harjoitus3
+```
+### Instal the dependencies
+```
+npm install
+```
+### Run dev server
+```
+npm run dev
+```
+### Tests
+```
+npm test
+```
