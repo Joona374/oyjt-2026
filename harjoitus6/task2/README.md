@@ -26,3 +26,10 @@
 
 ## Logging
 Logging is implemented using Winston. It tracks endpoint access, counter changes, and server lifecycle events. Logs are output both to the console and to files in the `logs/` directory.
+
+## Built and tested with
+- NodeJS: 18.20.8
+- Express: 4.18.2
+- Winston: 3.11.0
+- Chai: 6.2.2
+- Mocha: 11.7.5
