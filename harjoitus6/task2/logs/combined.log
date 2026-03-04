@@ -1,0 +1,92 @@
+{"level":"info","message":"[MAIN] Starting","timestamp":"2026-03-04T19:48:40.950Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T19:48:49.642Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-increase'","timestamp":"2026-03-04T19:48:49.643Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-read'","timestamp":"2026-03-04T19:48:53.992Z"}
+{"level":"info","message":"[COUNTER] read 1","timestamp":"2026-03-04T19:48:53.994Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T19:48:58.398Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-reset'","timestamp":"2026-03-04T19:48:58.398Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-read'","timestamp":"2026-03-04T19:49:01.422Z"}
+{"level":"info","message":"[COUNTER] read 0","timestamp":"2026-03-04T19:49:01.430Z"}
+{"level":"info","message":"[MAIN] Stopping","timestamp":"2026-03-04T19:49:05.453Z"}
+{"level":"info","message":"[MAIN] Starting","timestamp":"2026-03-04T19:55:51.547Z"}
+{"level":"info","message":"[MAIN] Stopping","timestamp":"2026-03-04T20:02:03.613Z"}
+{"level":"info","message":"[MAIN] Starting","timestamp":"2026-03-04T20:02:04.696Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-read'","timestamp":"2026-03-04T20:02:18.396Z"}
+{"level":"info","message":"[COUNTER] read 0","timestamp":"2026-03-04T20:02:18.397Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-read'","timestamp":"2026-03-04T20:02:31.143Z"}
+{"level":"info","message":"[COUNTER] read 0","timestamp":"2026-03-04T20:02:31.144Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-increase'","timestamp":"2026-03-04T20:02:33.873Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T20:02:33.874Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-increase'","timestamp":"2026-03-04T20:02:35.737Z"}
+{"level":"info","message":"[COUNTER] increase 2","timestamp":"2026-03-04T20:02:35.737Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-increase'","timestamp":"2026-03-04T20:02:37.144Z"}
+{"level":"info","message":"[COUNTER] increase 3","timestamp":"2026-03-04T20:02:37.144Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-increase'","timestamp":"2026-03-04T20:02:38.295Z"}
+{"level":"info","message":"[COUNTER] increase 4","timestamp":"2026-03-04T20:02:38.295Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-read'","timestamp":"2026-03-04T20:02:39.806Z"}
+{"level":"info","message":"[COUNTER] read 4","timestamp":"2026-03-04T20:02:39.807Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-increase'","timestamp":"2026-03-04T20:02:42.977Z"}
+{"level":"info","message":"[COUNTER] increase 5","timestamp":"2026-03-04T20:02:42.977Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-read'","timestamp":"2026-03-04T20:02:45.065Z"}
+{"level":"info","message":"[COUNTER] read 5","timestamp":"2026-03-04T20:02:45.066Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-reset'","timestamp":"2026-03-04T20:02:47.361Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T20:02:47.361Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-read'","timestamp":"2026-03-04T20:02:52.356Z"}
+{"level":"info","message":"[COUNTER] read 0","timestamp":"2026-03-04T20:02:52.357Z"}
+{"level":"info","message":"[MAIN] Stopping","timestamp":"2026-03-04T20:14:13.211Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T20:58:32.330Z"}
+{"level":"info","message":"[COUNTER] read 0","timestamp":"2026-03-04T20:58:32.334Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T20:58:32.336Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T20:58:32.337Z"}
+{"level":"info","message":"[COUNTER] read 1","timestamp":"2026-03-04T20:58:32.338Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T20:58:32.339Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T20:58:32.340Z"}
+{"level":"info","message":"[COUNTER] increase 2","timestamp":"2026-03-04T20:58:32.340Z"}
+{"level":"info","message":"[COUNTER] read 2","timestamp":"2026-03-04T20:58:32.341Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T20:58:32.342Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T20:58:32.342Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T20:58:32.343Z"}
+{"level":"info","message":"[COUNTER] read 0","timestamp":"2026-03-04T20:58:32.343Z"}
+{"level":"info","message":"[MAIN] Starting","timestamp":"2026-03-04T20:58:32.456Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T20:59:00.679Z"}
+{"level":"info","message":"[COUNTER] read 0","timestamp":"2026-03-04T20:59:00.681Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T20:59:00.684Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T20:59:00.684Z"}
+{"level":"info","message":"[COUNTER] read 1","timestamp":"2026-03-04T20:59:00.685Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T20:59:00.686Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T20:59:00.687Z"}
+{"level":"info","message":"[COUNTER] increase 2","timestamp":"2026-03-04T20:59:00.687Z"}
+{"level":"info","message":"[COUNTER] read 2","timestamp":"2026-03-04T20:59:00.688Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T20:59:00.689Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T20:59:00.690Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T20:59:00.690Z"}
+{"level":"info","message":"[COUNTER] read 0","timestamp":"2026-03-04T20:59:00.691Z"}
+{"level":"info","message":"[MAIN] Starting","timestamp":"2026-03-04T20:59:00.789Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T21:00:54.370Z"}
+{"level":"info","message":"[COUNTER] read 0","timestamp":"2026-03-04T21:00:54.374Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T21:00:54.377Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T21:00:54.378Z"}
+{"level":"info","message":"[COUNTER] read 1","timestamp":"2026-03-04T21:00:54.378Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T21:00:54.379Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T21:00:54.379Z"}
+{"level":"info","message":"[COUNTER] increase 2","timestamp":"2026-03-04T21:00:54.380Z"}
+{"level":"info","message":"[COUNTER] read 2","timestamp":"2026-03-04T21:00:54.380Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T21:00:54.381Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T21:00:54.382Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T21:00:54.382Z"}
+{"level":"info","message":"[COUNTER] read 0","timestamp":"2026-03-04T21:00:54.383Z"}
+{"level":"info","message":"[MAIN] Starting","timestamp":"2026-03-04T21:00:54.396Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T21:00:54.400Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T21:00:54.459Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-increase'","timestamp":"2026-03-04T21:00:54.461Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T21:00:54.461Z"}
+{"level":"info","message":"[COUNTER] read 1","timestamp":"2026-03-04T21:00:54.463Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T21:00:54.464Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T21:00:54.464Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-read'","timestamp":"2026-03-04T21:00:54.466Z"}
+{"level":"info","message":"[COUNTER] read 1","timestamp":"2026-03-04T21:00:54.466Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T21:00:54.469Z"}
+{"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T21:00:54.470Z"}
+{"level":"info","message":"[ENDPOINT] GET '/counter-reset'","timestamp":"2026-03-04T21:00:54.471Z"}
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T21:00:54.472Z"}
+{"level":"info","message":"[COUNTER] read 0","timestamp":"2026-03-04T21:00:54.474Z"}
